@@ -23,6 +23,6 @@
 
 To use this tool for legal purposes 
 
-## Credit 
+## Credit 💥
 
 https://leakix.net/
