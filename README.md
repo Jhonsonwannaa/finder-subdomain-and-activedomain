@@ -1,1 +1,1 @@
-# finder-subdomain-and-activedomain
+# finder-subdomain-and-active-domain
