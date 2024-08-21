@@ -13,7 +13,7 @@ def main(url):
 
    try:
      r=requests.get(url,verify=False)
-     if r.status_code==200:
+     if r.status_code :
         save=open('output.txt', 'a').write(r.url+'\n')
 
    except:
