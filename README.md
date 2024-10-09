@@ -2,7 +2,7 @@
 
 ## Installation 🚀
 
-<code>git clone https://github.com/Jhonsonwannaa/finder-subdomain-and-activedomain </code>
+<code>git clone https://github.com/dream434/finder-subdomain-and-activedomain </code>
 
 
 <code>cd  finder-subdomain-and-activedomain </code>
